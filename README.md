@@ -40,7 +40,7 @@ To click on "File->load" to load image
 </p>
 
 **Step 2.** Fourier transform <br>
-To click on "Fourier_transform->Selective_filtering" to into frequency domain of the image:
+To click on "Fourier_transform->Selective_filtering" to jump into another window showing the frequency domain of the image:
 
 <p align="center">
    <br>
@@ -66,7 +66,9 @@ After Step 3. is finished, the program would automatically apply high pass filte
    <br>
 </p>
 
-# 7_Result
+**Step 5.** Final result <br>
+After Step 3. is finished, the program would automatically apply high pass filter at both point mirror around origin, since periodic is always symmetric around origin:
+
 
 <p align="center">
    <br>
