@@ -6,7 +6,8 @@
    <br>
 </p>
 
-# 2_Implementation_1D
+# Implementation
+The concept of periodic noise filtering is by using the fact that periodic signal in spatial domain corresponds to impulse signal in frequency domain, the following graph illustrates the situation where using sine function for instance:
 
 <p align="center">
    <br>
