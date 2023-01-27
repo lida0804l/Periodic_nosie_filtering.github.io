@@ -57,7 +57,8 @@ To double click on the graph to generate a circle surronding the impulse signal:
    <br>
 </p>
 
-# 6_Filtered
+**Step 4.** High pass filter around selected region <br>
+After Step 3. is finished, the program would automatically apply high pass filter at both point mirror around origin, since periodic is always symmetric around origin:
 
 <p align="center">
    <br>
