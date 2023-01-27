@@ -67,8 +67,7 @@ After Step 3. is finished, the program would automatically apply high pass filte
 </p>
 
 **Step 5.** Final result <br>
-After Step 3. is finished, the program would automatically apply high pass filter at both point mirror around origin, since periodic is always symmetric around origin:
-
+After we finish filtering all the point impulse signal we can just close the window, once the window is closed the program will transforming the entire image back into spatial domain, and from the graph we can see the image is clear now:
 
 <p align="center">
    <br>
