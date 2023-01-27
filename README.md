@@ -1,4 +1,5 @@
 # Periodic noise filtering
+This project is inspired by both Chapter 4 and 5 in "Digital Image Processing 3th edition", one of the great experiences in finishing the project is trying to compose all of the neccesary skill that I have learned thus far, including integration(Calculus), fourier transform(Engineer mathematics), programming skills and design user interface, the filtering effect is amazing too and although I demonstrate here using grayscale images, but actually my program is also taking color images into account, moreover part of the flickering image with very periodic behavior is able to be filter too.
 
 <p align="center">
    <br>
