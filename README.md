@@ -48,7 +48,8 @@ To click on "Fourier_transform->Selective_filtering" to into frequency domain of
    <br>
 </p>
 
-# 5_Region_selection
+**Step 3.** Region selection <br>
+To double click on the graph to generate a circle surronding the impulse signal:
 
 <p align="center">
    <br>
